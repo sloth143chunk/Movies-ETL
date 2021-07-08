@@ -8,4 +8,4 @@ A function that takes in three files -- Wikipedia data, Kaggle metadata, and a M
 
 ## Resources
 - Data Source: movies_metadata.csv, ratings.csv, wikipedia-movies.json
-- Software: JupyterNotebook, Pandas Library
+- Software: JupyterNotebook, Python (Pandas, SQLAlchemy, Numpy)
